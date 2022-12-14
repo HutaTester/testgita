@@ -12,7 +12,14 @@
 	System.out.println("Kliknij na przycisk zaloguj");
     }
 
- public void logowanieFacebook() {
+   public void logowanieMicrosoft() {
+        System.out.println("Podaj nazwę użytkownika Microsoft");
+ 	System.out.println("Podaj hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
+	System.out.println("Kliknij na przycisk zaloguj");
+    }
+
+   public void logowanieFacebook() {
         System.out.println("Podaj login z Facebiooka");
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
