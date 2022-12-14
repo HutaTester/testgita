@@ -11,3 +11,10 @@
         System.out.println("Kliknij na przycisk zaloguj");
 	System.out.println("Kliknij na przycisk zaloguj");
     }
+
+ public void logowanieFacebook() {
+        System.out.println("Podaj login z Facebiooka");
+        System.out.println("Podaj hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
+	System.out.println("Kliknij na przycisk zaloguj");
+    }
